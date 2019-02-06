@@ -1,4 +1,4 @@
-# css-variables
-CSS Custom Properties (Variables)
+# CSS Variables
 
-Source: https://www.w3schools.com/css/css3_variables.asp
+CSS Custom Properties (Variables)
+- Source: https://www.w3schools.com/css/css3_variables.asp
